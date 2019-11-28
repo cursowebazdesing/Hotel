@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background:darkred;
+    color:gold;
+    font-size: 16px;
+}
+
+header .titulo{
+   position:relative;
+    width:50%;
+    height:300px;
+    color:gold;
+    text-align:right;
+    font-family: cursive;
+    font-size:100px;
+    vertical-align:middle;
+    overflow: hidden;
+    top: 50%;
+}
+header .imagen{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+    
+}
+header .formulario{
+    float:right;
+    background-color: dodgerblue;
+    height:35px;
+    width: 70%;
+}
+a{
+    color: beige;
+    padding: 20px;
+    margin: 20px;
+    
+}
+a:hover{
+ color:#000;
+}
+
+div .informacion{
+    background-color:ghostwhite;
+    font-family:monospace;
+    text-align: center;
+    color: maroon;
+}
+section .galeria
+{
+ background-color:#fff;
+    color: coral;
+}
+ aside{
+    text-align: right;
+    font-family: cursive;
+}
+
+footer{
+    background: #000;
+    color: snow;
+    text-align: center;
+}
+
+div .horarios{
+    text-align: center;
+    color:gold;
+    
+}
+button{
+  background-color: salmon;
+}
+div .contacto{
+    text-align: center;
+}
+p .texto{
+    text-align: center;
+}
+div .carateristicas{
+    text-align: center;
+    background:whitesmoke;
+    color: brown;
+}
